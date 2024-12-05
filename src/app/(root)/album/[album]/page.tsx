@@ -3,13 +3,13 @@ import AudiosContainer from "@/ui/albumContainer/Album";
 
 const url = [
   {
-    url: "https://bubbleapidenotest.netlify.app/api?with=https://s3.tebi.io/do90/init.mp4",
+    url: "https://curious-lolly-2c34b5.netlify.app/api/https://s3.tebi.io/do90/init.mp4",
     sege: 24,
     name: "with cache header and cache manual",
     duration: 239.467,
   },
   {
-    url: "https://bubbleapidenotest.netlify.app/api1?with=https://s3.tebi.io/do90/init.mp4",
+    url: "https://curious-lolly-2c34b5.netlify.app/api1?with=https://s3.tebi.io/do90/init.mp4",
     sege: 24,
     name: "with cache no-store",
     duration: 239.467,
